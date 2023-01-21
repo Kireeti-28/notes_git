@@ -24,3 +24,10 @@
 - git stash pop _- unstash_
 - git stash clear _- clears all stash_
 - _[Click Here] (https://www.atlassian.com/git/tutorials/saving-changes/git-stash) for more about stash_
+
+## Remote:
+
+- git remote add origin <url>
+- git remote -v
+- _[Click Here] (https://www.atlassian.com/git/tutorials/syncing)_
+- _YT: [Click Here] (https://www.youtube.com/watch?v=Gg4bLk8cGNo)_
