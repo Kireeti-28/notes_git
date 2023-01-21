@@ -16,3 +16,11 @@
 ## Commiting:
 
 - git commit -m "commit - message"
+
+## Stash:
+
+- to stash file should be staged
+- git stash _- Stash_
+- git stash pop _- unstash_
+- git stash clear _- clears all stash_
+- _[Click Here] (https://www.atlassian.com/git/tutorials/saving-changes/git-stash) for more about stash_
